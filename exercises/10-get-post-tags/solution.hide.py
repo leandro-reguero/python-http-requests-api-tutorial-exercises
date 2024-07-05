@@ -20,4 +20,4 @@ def get_post_tags(post_id):
         print("Failed to fetch data from the endpoint.")
 
 
-print(get_post_tags(146))
+print(get_post_tags(135))
